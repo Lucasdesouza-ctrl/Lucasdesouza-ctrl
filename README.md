@@ -1,6 +1,6 @@
 <h2 align="left">Hello! I am Lucas Alexandre.</h2>
 
-<h3 align="left">Junior fullstack developer and computer science student.💻📖</h3>
+<h3 align="left">Backend developer and computer science student.💻📖</h3>
 
 <h4 align="left">Disciplined and focused on new challenges and learning.🧑🏽‍💻</h4>
 <br>
